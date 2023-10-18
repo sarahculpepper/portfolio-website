@@ -3,15 +3,12 @@ const INFO = {
 		title: "Sarah Culpepper",
 		name: "Sarah Culpepper",
 		email: "sarah.culpepper2022@gmail.com",
-		logo: "../logo_s.PNG",
+		logo: "logo_s.PNG",
 	},
 
 	socials: {
 		github: "https://github.com/",
 		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
 	},
 
 	homepage: {
