@@ -35,7 +35,7 @@ const INFO = {
 				"A partially working sorting algorithm visualizer",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com/sarahculpepper/sorting-visualizer",
+			link: "https://sorting-visualizer-six-self.vercel.app/",
 		},
 
 		{
