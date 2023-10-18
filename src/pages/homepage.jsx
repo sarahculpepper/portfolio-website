@@ -56,7 +56,7 @@ const Homepage = () => {
 		return () => window.removeEventListener("scroll", handleScroll);
 	}, [logoSize, oldLogoSize]);
 
-	const currentSEO = SEO.find((item) => item.page === "home");
+	const currentSEO = SEO.find((item) => item.page === "portfolio-website");
 
 	const logoStyle = {
 		display: "flex",
