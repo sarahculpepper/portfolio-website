@@ -15,7 +15,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./KLFY.PNG"
+								src="./KLFY.png"
 								alt="klfy"
 								className="work-image"
 							/>
@@ -28,7 +28,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./KATC.PNG"
+								src="./KATC.png"
 								alt="katc"
 								className="work-image"
 							/>
