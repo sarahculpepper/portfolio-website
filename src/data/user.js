@@ -6,8 +6,8 @@ const INFO = {
 	},
 
 	socials: {
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
+		github: "https://github.com/sarahculpepper",
+		linkedin: "https://linkedin.com/in/sarahcpepper",
 	},
 
 	homepage: {
@@ -17,9 +17,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "I’m Sarah Culpepper. ",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+		"I'm a senior Computer Science student at the University of Louisiana at Lafayette with a concentration in Cyber Security. I also have been a journalist working for two different local ABC and CBS affiliates for four years. I also am a percussion instructor for a local high school. I have lots of different passions in life and am amazing at handling stressful situations. Learning new things rapidly is a proud skill of mine and I love to solve challenging tasks with little to no guidance."
 	},
 
 	articles: {
