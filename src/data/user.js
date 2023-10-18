@@ -3,7 +3,6 @@ const INFO = {
 		title: "Sarah Culpepper",
 		name: "Sarah Culpepper",
 		email: "sarah.culpepper2022@gmail.com",
-		logo: "logo_s.PNG",
 	},
 
 	socials: {
